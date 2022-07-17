@@ -1,5 +1,7 @@
 How to run:
 
+add cors extension in the browser
+
 Open the VS Code in "Chat App" folder.
 
 Run Live Server (right bottom), if not added to chrome, add extension.
